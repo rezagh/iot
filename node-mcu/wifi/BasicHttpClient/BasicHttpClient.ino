@@ -1,8 +1,5 @@
 /**
-   BasicHTTPClient.ino
-
-    Created on: 24.05.2015
-
+  a simple web server
 */
 
 #include <Arduino.h>
